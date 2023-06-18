@@ -1,0 +1,37 @@
+body {
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-style: Helvetica;
+}
+
+.me {
+    width: 180px;
+}
+
+.card {
+    width: 400px;
+    padding: 20px;
+
+    background-color: #d8cefe;
+    
+
+    display: flex;
+    justify-content:space-around;
+
+    margin: 0px auto ;
+
+    text-align: center;
+}
+
+.text{
+    color: #2b2839;
+
+    padding-top: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 0px;
+}
+
+.border {
+    border-bottom: solid 20px #ddebf8;
+}
